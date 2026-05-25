@@ -90,11 +90,7 @@ Key SQL tasks included:
 
 ## Dashboard Preview
 
-Add the dashboard screenshot here after placing it in the `images/` folder:
-
-```markdown
-![Pizza Sales Dashboard](images/pizza_sales_dashboard_preview.png)
-```
+- <a href="https://github.com/Swaraj107/Pizza_Data_Analysis/blob/main/Dashboard-img.png">Dashboard</a>
 
 ## Project Insights
 
