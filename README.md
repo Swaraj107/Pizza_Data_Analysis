@@ -171,9 +171,6 @@ pizza-sales-analytics-dashboard/
 - Time-based trend analysis
 - Product performance analysis
 
-## Resume Summary
-
-Built an Excel-based Pizza Sales Analytics Dashboard using SQL-driven analysis to evaluate $817K+ in sales revenue, 21K+ orders, and 49K+ pizzas sold. Developed KPI calculations, sales trend analysis, category and size performance reporting, and best/worst seller insights to support staffing, inventory, promotion, and menu strategy decisions.
 
 ## Final Conclusion
 
