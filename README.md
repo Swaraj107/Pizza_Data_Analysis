@@ -26,7 +26,7 @@ This project converts raw sales data into clear business insights that can suppo
 
 The dataset contains pizza sales transaction data, including order details, pizza names, pizza categories, pizza sizes, quantities sold, order dates, order times, and sales amounts.
 
-The raw data is stored inside the Excel workbook and can also be exported to `data/pizza_sales_raw_data.csv` for easier inspection and reuse.
+The raw data is stored inside the <a href="https://github.com/Swaraj107/Pizza_Data_Analysis/blob/main/pizza_sales_dashboard.xlsx">Excel workbook</a> 
 
 ## Tools and Technologies Used
 
